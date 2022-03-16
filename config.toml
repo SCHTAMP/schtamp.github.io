@@ -11,5 +11,5 @@ enableInlineShortcodes = true
 
 [params]
   BookTheme = 'dark'
-  BookLogo = 'images/logo1.png'
+  BookLogo = 'images/logo.png'
   BookSection = 'wiki'

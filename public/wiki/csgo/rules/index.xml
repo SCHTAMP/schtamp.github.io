@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Правила турниров по CS:GO on Amazing ESports Wiki</title>
+    <link>/wiki/csgo/rules/</link>
+    <description>Recent content in Правила турниров по CS:GO on Amazing ESports Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/wiki/csgo/rules/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Правила турнира 1v1</title>
+      <link>/wiki/csgo/rules/1x1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/wiki/csgo/rules/1x1/</guid>
+      <description>Для участия в турнире необходим Prime Status в CS:GO
+1. Общие положения
+1.1. Игры WePlay CS:GO 1v1 Versus проходят в формате Online в сети Интернет.
+1.2. Карты 1v1:
+ aim_ak47_weplay aim_map_weplay aim_redline_weplay aim_deagle_weplay aim_pistol_weplay aim_salieri_weplay awp_row_weplay awp_india_weplay awp_lego_weplay  1.3. Сервера: Москва, Франкфурт.
+1.4. Способ соревнования: 1 на 1.
+1.5. Рекомендуемый браузер для участия в турнирах: Google Chrome.
+2. Система проведения
+2.1. Игроки сыграют между собой по системе Single Elimination.</description>
+    </item>
+    
+    <item>
+      <title>Правила турнира 2v2</title>
+      <link>/wiki/csgo/rules/2x2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/wiki/csgo/rules/2x2/</guid>
+      <description>Для участия в турнире необходим Prime Status в CS:GO.
+1. Общие положения
+1.1. Игры WePlay CS:GO 2v2 Versus проходят в формате Online в сети Интернет.
+1.2. Карты 2v2:
+ de_cbble de_inferno de_overpass de_train de_shortdust de_shortnuke de_vertigo  1.3. Сервера: Москва, Франкфурт.
+1.4. Способ соревнования: 2 на 2.
+1.5. Рекомендуемый браузер для участия в турнирах: Google Chrome.
+2. Система проведения
+2.1. Игроки сыграют между собой по системе Single Elimination.
+2.2. Формат &amp;ldquo;Best of 1&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Правила турнира 5v5</title>
+      <link>/wiki/csgo/rules/5x5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/wiki/csgo/rules/5x5/</guid>
+      <description>Правила турнира 5v5 по игре CS:GO#Для участия в турнире необходим Prime Status в CS:GO.
+1. Общие положения
+1.1. Игры WePlay CS:GO 5v5 Versus проходят в формате Online в сети Интернет.
+1.2. Карты 5v5:  de_vertigo de_dust2 de_inferno de_mirage de_nuke de_overpass de_ancient  1.3. Сервера: Москва, Франкфурт.
+1.4. Способ соревнования: 5 на 5.
+1.5. Рекомендуемый браузер для участия в турнирах: Google Chrome.
+2. Система проведения
+2.1. Игроки сыграют между собой по системе Single Elimination.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,10 @@
+{{ $src := .Get 0 }}
+
+{{ $src := print $src }} 
+
+<ul>
+    {{ $t := .Site.GetPage $src }}
+    {{- range $t.Pages -}}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{- end -}}
+</ul>

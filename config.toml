@@ -1,0 +1,15 @@
+baseURL = 'https://schtamp.github.io'
+languageCode = 'en-us'
+title = 'Amazing ESports Wiki'
+theme = "hugo-book"
+defaultContentLanguage = 'ru'
+enableInlineShortcodes = true
+
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  BookTheme = 'dark'
+  BookLogo = 'images/logo1.png'
+  BookSection = 'wiki'
